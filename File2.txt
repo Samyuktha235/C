@@ -1,0 +1,8 @@
+Hi hello.How are you?
+Hi hello.How are you?
+Hi hello.How are you?
+Hi hello.How are you?
+(text,500,fp)The fputs() and fgets() in C
+programming are used to write and read string from stream. Let's see examples
+ of writing and reading file using fgets() and fgets() functions.
+Hi hello.How are you?
