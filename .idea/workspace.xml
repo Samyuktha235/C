@@ -21,59 +21,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="69f91bdb-3809-4656-8693-b097ff5b4250" name="Changes" comment="C programs">
-      <change afterPath="$PROJECT_DIR$/ArrayOfStructureToFunction.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C_intermediate/ArrayOfStructureToFunction.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C_intermediate/CallByRef.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C_intermediate/CallByReferenceStruct.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C_intermediate/CallByValue.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C_intermediate/Odd_or_even.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C_intermediate/StudentDataToReturnStructure.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C_intermediate/StudentDetailsStructurePointer.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C_intermediate/bitwise_Operators.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C_intermediate/c_loop_func.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C_intermediate/callByValueStruct.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C_intermediate/register_prog.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CallByReferenceStruct.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/File2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FileHandling/employee_details.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FileHandling/fgetc.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FileHandling/fopen.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FileHandling/fputc.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FileHandling/fputs.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FileHandling/fscanf.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FileHandling/toReadAndWriteInAnotherFile.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/File_putc.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/File_puts.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudentDataToReturnStructure.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudentDetailsStructurePointer.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/callByValueStruct.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/emp.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/employee_details.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fgetc.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/filename.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fopen.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fputc.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fputs.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fscanf.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/toReadAndWriteInAnotherFile.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/C_intermediate/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cache-v2-bc84def05c9e805639e9.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-cc05574f775fca3ca12b.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2024-03-28T10-01-26-0896.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.27.8/CMakeCCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.27.8/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.27.8/CMakeRCCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.27.8/CMakeSystem.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.27.8/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.27.8/CompilerIdC/a.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayOfStructures.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayWithinStructure.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C_intermediate/ArrayOfStructures.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C_intermediate/ArrayWithinStructure.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C_intermediate/FuncPointer.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C_intermediate/FuncPointerArray.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C_intermediate/FuncPointerAsParameter.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FuncPointer.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FuncPointerArray.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +64,11 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "C/C++ File.ArrayOfStructureToFunction.c.executor": "Run",
+    "C/C++ File.ArrayOfStructures.c.executor": "Run",
+    "C/C++ File.ArrayWithinStructure.c.executor": "Run",
     "C/C++ File.CallByReferenceStruct.c.executor": "Run",
+    "C/C++ File.FuncPointer.c.executor": "Run",
+    "C/C++ File.FuncPointerArray.c.executor": "Run",
     "C/C++ File.StudentDataToReturnStructure.c.executor": "Run",
     "C/C++ File.StudentDetailsStructurePointer.c.executor": "Run",
     "C/C++ File.callByValueStruct.c.executor": "Run",
@@ -133,7 +94,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="C/C++ File.ArrayOfStructureToFunction.c">
+  <component name="RunManager" selected="C/C++ File.FuncPointerArray.c">
     <configuration name="C" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="C" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="C" RUN_TARGET_NAME="C">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -145,45 +106,45 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CallByReferenceStruct.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="CallByReferenceStruct.c" CONFIG_NAME="CallByReferenceStruct.c">
-      <option name="sourceFile" value="C_intermediate\CallByReferenceStruct.c" />
+    <configuration name="ArrayOfStructures.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="ArrayOfStructures.c" CONFIG_NAME="ArrayOfStructures.c">
+      <option name="sourceFile" value="C_intermediate\ArrayOfStructures.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentDataToReturnStructure.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="StudentDataToReturnStructure.c" CONFIG_NAME="StudentDataToReturnStructure.c">
-      <option name="sourceFile" value="C_intermediate\StudentDataToReturnStructure.c" />
+    <configuration name="ArrayWithinStructure.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="ArrayWithinStructure.c" CONFIG_NAME="ArrayWithinStructure.c">
+      <option name="sourceFile" value="C_intermediate\ArrayWithinStructure.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentDetailsStructurePointer.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="StudentDetailsStructurePointer.c" CONFIG_NAME="StudentDetailsStructurePointer.c">
-      <option name="sourceFile" value="C_intermediate\StudentDetailsStructurePointer.c" />
+    <configuration name="FuncPointerArray.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="FuncPointerArray.c" CONFIG_NAME="FuncPointerArray.c">
+      <option name="sourceFile" value="C_intermediate\FuncPointerArray.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="callByValueStruct.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="callByValueStruct.c" CONFIG_NAME="callByValueStruct.c">
-      <option name="sourceFile" value="C_intermediate\callByValueStruct.c" />
+    <configuration name="FuncPointer.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="FuncPointer.c" CONFIG_NAME="FuncPointer.c">
+      <option name="sourceFile" value="C_intermediate\FuncPointer.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <list>
+      <item itemvalue="C/C++ File.FuncPointer.c" />
+      <item itemvalue="C/C++ File.FuncPointerArray.c" />
+      <item itemvalue="C/C++ File.ArrayOfStructures.c" />
       <item itemvalue="C/C++ File.ArrayOfStructureToFunction.c" />
-      <item itemvalue="C/C++ File.CallByReferenceStruct.c" />
-      <item itemvalue="C/C++ File.StudentDataToReturnStructure.c" />
-      <item itemvalue="C/C++ File.StudentDetailsStructurePointer.c" />
-      <item itemvalue="C/C++ File.callByValueStruct.c" />
+      <item itemvalue="C/C++ File.ArrayWithinStructure.c" />
       <item itemvalue="CMake Application.C" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.FuncPointerArray.c" />
+        <item itemvalue="C/C++ File.FuncPointer.c" />
+        <item itemvalue="C/C++ File.ArrayOfStructures.c" />
+        <item itemvalue="C/C++ File.ArrayWithinStructure.c" />
         <item itemvalue="C/C++ File.ArrayOfStructureToFunction.c" />
-        <item itemvalue="C/C++ File.StudentDataToReturnStructure.c" />
-        <item itemvalue="C/C++ File.CallByReferenceStruct.c" />
-        <item itemvalue="C/C++ File.callByValueStruct.c" />
-        <item itemvalue="C/C++ File.StudentDetailsStructurePointer.c" />
       </list>
     </recent_temporary>
   </component>
@@ -198,8 +159,27 @@
       <workItem from="1712821115990" duration="7907000" />
       <workItem from="1712900737419" duration="957000" />
       <workItem from="1713174289581" duration="4451000" />
-      <workItem from="1713245070984" duration="4469000" />
+      <workItem from="1713245070984" duration="6291000" />
+      <workItem from="1713260246008" duration="3645000" />
+      <workItem from="1713347257353" duration="2320000" />
     </task>
+    <task id="LOCAL-00001" summary="C programs">
+      <option name="closed" value="true" />
+      <created>1713250153309</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1713250153309</updated>
+    </task>
+    <task id="LOCAL-00002" summary="C programs">
+      <option name="closed" value="true" />
+      <created>1713250175110</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1713250175110</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
