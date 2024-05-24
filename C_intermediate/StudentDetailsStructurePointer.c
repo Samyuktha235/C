@@ -22,7 +22,8 @@ int main()
     scanf("%s",&s.dept);
     printf("Enter the batch of student:\n");
     scanf("%d",&s.batch);
-   //11strcpy(ptr->name,"samyuktha");
+    //strcpy(ptr->name,"samyuktha");
+    //strcpy(&s.name,"sam");
     printf("id:%d\nName:%s\nDept:%s\nBatch:%d\n",ptr->id,ptr->name,ptr->dept,ptr->batch);
     return 0;
 }

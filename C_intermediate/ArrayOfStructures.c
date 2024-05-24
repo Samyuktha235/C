@@ -7,8 +7,10 @@ struct stu
     int rollnum;
     char name[100];
 };
-void printDetails(struct stu s[],int n)
+void printDetails(struct stu s[])
 {
+    int n=sizeof(s)/sizeof(int);
+    printf("%d",sizeof(s[0]));
     for(int i=0;i<n;i++)
     {
         printf("Roll number: %d, ",s[i].rollnum);
@@ -29,6 +31,6 @@ int main()
         printf("Enter the name of student:");
         scanf("%s",s[i].name);
     }
-    printDetails(s,n);
+    printDetails(s);
     return 0;
 }

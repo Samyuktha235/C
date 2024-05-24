@@ -21,16 +21,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="69f91bdb-3809-4656-8693-b097ff5b4250" name="Changes" comment="C programs">
-      <change afterPath="$PROJECT_DIR$/ArrayOfStructures.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArrayWithinStructure.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C_intermediate/ArrayOfStructures.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C_intermediate/ArrayWithinStructure.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C_intermediate/FuncPointer.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C_intermediate/FuncPointerArray.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C_intermediate/FuncPointerAsParameter.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FuncPointer.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FuncPointerArray.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATM .exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AddUsingFuncPointer.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArthimeticAndRelational.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C_advanced/ATM .c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C_advanced/ArthimeticAndRelational.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C_advanced/FunctionPointerAddSub.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C_advanced/RemoveDuplicates.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C_advanced/STRTOK.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C_advanced/StudentDatabaseUsingCalloc.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C_advanced/Variadic_function.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C_advanced/outputPrediction.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C_advanced/printDetails.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C_advanced/processArray.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FunctionPointerAddSub.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RemoveDuplicates.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STRTOK.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudentDatabaseUsingCalloc.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Variadic_function.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputPrediction.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temperatureConversion.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayOfStructures.exe" beforeDir="false" afterPath="$PROJECT_DIR$/ArrayOfStructures.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C_intermediate/ArrayOfStructures.c" beforeDir="false" afterPath="$PROJECT_DIR$/C_intermediate/ArrayOfStructures.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C_intermediate/StudentDetailsStructurePointer.c" beforeDir="false" afterPath="$PROJECT_DIR$/C_intermediate/StudentDetailsStructurePointer.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/File_puts.txt" beforeDir="false" afterPath="$PROJECT_DIR$/File_puts.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FuncPointerAsParameter.exe" beforeDir="false" afterPath="$PROJECT_DIR$/FuncPointerAsParameter.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudentDetailsStructurePointer.exe" beforeDir="false" afterPath="$PROJECT_DIR$/StudentDetailsStructurePointer.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnionExample.exe" beforeDir="false" afterPath="$PROJECT_DIR$/UnionExample.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/filename.txt" beforeDir="false" afterPath="$PROJECT_DIR$/filename.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fputs.exe" beforeDir="false" afterPath="$PROJECT_DIR$/fputs.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fscanf.exe" beforeDir="false" afterPath="$PROJECT_DIR$/fscanf.exe" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,14 +84,24 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "C/C++ File.ATM .c.executor": "Run",
+    "C/C++ File.AddUsingFuncPointer.c.executor": "Run",
     "C/C++ File.ArrayOfStructureToFunction.c.executor": "Run",
     "C/C++ File.ArrayOfStructures.c.executor": "Run",
     "C/C++ File.ArrayWithinStructure.c.executor": "Run",
+    "C/C++ File.ArthimeticAndRelational.c.executor": "Run",
     "C/C++ File.CallByReferenceStruct.c.executor": "Run",
     "C/C++ File.FuncPointer.c.executor": "Run",
     "C/C++ File.FuncPointerArray.c.executor": "Run",
+    "C/C++ File.FuncPointerAsParameter.c.executor": "Run",
+    "C/C++ File.FunctionPointerAddSub.c.executor": "Run",
+    "C/C++ File.RemoveDuplicates.c.executor": "Run",
+    "C/C++ File.STRTOK.c.executor": "Run",
     "C/C++ File.StudentDataToReturnStructure.c.executor": "Run",
+    "C/C++ File.StudentDatabaseUsingCalloc.c.executor": "Run",
     "C/C++ File.StudentDetailsStructurePointer.c.executor": "Run",
+    "C/C++ File.UnionExample.c.executor": "Run",
+    "C/C++ File.Variadic_function.c.executor": "Run",
     "C/C++ File.callByValueStruct.c.executor": "Run",
     "C/C++ File.employee_details.c.executor": "Run",
     "C/C++ File.fgetc.c.executor": "Run",
@@ -78,6 +109,9 @@
     "C/C++ File.fputc.c.executor": "Run",
     "C/C++ File.fputs.c.executor": "Run",
     "C/C++ File.fscanf.c.executor": "Run",
+    "C/C++ File.outputPrediction.c.executor": "Run",
+    "C/C++ File.printDetails.c.executor": "Run",
+    "C/C++ File.temperatureConversion.c.executor": "Run",
     "C/C++ File.toReadAndWriteInAnotherFile.c.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -94,57 +128,57 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="C/C++ File.FuncPointerArray.c">
+  <component name="RunManager" selected="C/C++ File.printDetails.c">
     <configuration name="C" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="C" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="C" RUN_TARGET_NAME="C">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayOfStructureToFunction.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="ArrayOfStructureToFunction.c" CONFIG_NAME="ArrayOfStructureToFunction.c">
-      <option name="sourceFile" value="C_intermediate\ArrayOfStructureToFunction.c" />
+    <configuration name="ATM .c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="ATM .c" CONFIG_NAME="ATM .c">
+      <option name="sourceFile" value="C_advanced\ATM .c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayOfStructures.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="ArrayOfStructures.c" CONFIG_NAME="ArrayOfStructures.c">
-      <option name="sourceFile" value="C_intermediate\ArrayOfStructures.c" />
+    <configuration name="RemoveDuplicates.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="RemoveDuplicates.c" CONFIG_NAME="RemoveDuplicates.c">
+      <option name="sourceFile" value="C_advanced\RemoveDuplicates.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayWithinStructure.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="ArrayWithinStructure.c" CONFIG_NAME="ArrayWithinStructure.c">
-      <option name="sourceFile" value="C_intermediate\ArrayWithinStructure.c" />
+    <configuration name="fputs.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="fputs.c" CONFIG_NAME="fputs.c">
+      <option name="sourceFile" value="FileHandling\fputs.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FuncPointerArray.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="FuncPointerArray.c" CONFIG_NAME="FuncPointerArray.c">
-      <option name="sourceFile" value="C_intermediate\FuncPointerArray.c" />
+    <configuration name="fscanf.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="fscanf.c" CONFIG_NAME="fscanf.c">
+      <option name="sourceFile" value="FileHandling\fscanf.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FuncPointer.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="FuncPointer.c" CONFIG_NAME="FuncPointer.c">
-      <option name="sourceFile" value="C_intermediate\FuncPointer.c" />
+    <configuration name="printDetails.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="printDetails.c" CONFIG_NAME="printDetails.c">
+      <option name="sourceFile" value="C_advanced\printDetails.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="C/C++ File.FuncPointer.c" />
-      <item itemvalue="C/C++ File.FuncPointerArray.c" />
-      <item itemvalue="C/C++ File.ArrayOfStructures.c" />
-      <item itemvalue="C/C++ File.ArrayOfStructureToFunction.c" />
-      <item itemvalue="C/C++ File.ArrayWithinStructure.c" />
+      <item itemvalue="C/C++ File.printDetails.c" />
+      <item itemvalue="C/C++ File.fputs.c" />
+      <item itemvalue="C/C++ File.fscanf.c" />
+      <item itemvalue="C/C++ File.RemoveDuplicates.c" />
+      <item itemvalue="C/C++ File.ATM .c" />
       <item itemvalue="CMake Application.C" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="C/C++ File.FuncPointerArray.c" />
-        <item itemvalue="C/C++ File.FuncPointer.c" />
-        <item itemvalue="C/C++ File.ArrayOfStructures.c" />
-        <item itemvalue="C/C++ File.ArrayWithinStructure.c" />
-        <item itemvalue="C/C++ File.ArrayOfStructureToFunction.c" />
+        <item itemvalue="C/C++ File.printDetails.c" />
+        <item itemvalue="C/C++ File.fscanf.c" />
+        <item itemvalue="C/C++ File.fputs.c" />
+        <item itemvalue="C/C++ File.RemoveDuplicates.c" />
+        <item itemvalue="C/C++ File.ATM .c" />
       </list>
     </recent_temporary>
   </component>
@@ -161,7 +195,18 @@
       <workItem from="1713174289581" duration="4451000" />
       <workItem from="1713245070984" duration="6291000" />
       <workItem from="1713260246008" duration="3645000" />
-      <workItem from="1713347257353" duration="2320000" />
+      <workItem from="1713347257353" duration="3160000" />
+      <workItem from="1713777984566" duration="1237000" />
+      <workItem from="1715345745696" duration="142000" />
+      <workItem from="1715499022634" duration="831000" />
+      <workItem from="1715752222726" duration="4549000" />
+      <workItem from="1716182901926" duration="278000" />
+      <workItem from="1716183526714" duration="5891000" />
+      <workItem from="1716267137556" duration="9176000" />
+      <workItem from="1716284511353" duration="1339000" />
+      <workItem from="1716354166781" duration="10219000" />
+      <workItem from="1716441326096" duration="1495000" />
+      <workItem from="1716526981658" duration="1835000" />
     </task>
     <task id="LOCAL-00001" summary="C programs">
       <option name="closed" value="true" />
@@ -179,7 +224,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713250175110</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="C programs">
+      <option name="closed" value="true" />
+      <created>1713349948180</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1713349948180</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
